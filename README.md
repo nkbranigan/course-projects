@@ -1,2 +1,2 @@
 # course-projects
-This repository contains some class projects from my undergraduate and graduate career at Stanford. 
+This repository contains some class projects from my undergraduate and graduate careers at Stanford. 
